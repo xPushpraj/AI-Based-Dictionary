@@ -27,8 +27,7 @@ Install dependencies before running the app:
 
 ```bash
 pip install -r requirements.txt
-
-
+```
 🙌 Author
 
 👨‍💻 Made with ❤️ by Pushpraj Patel
