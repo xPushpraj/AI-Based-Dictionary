@@ -13,18 +13,6 @@ The app leverages **LLMs (Large Language Models)** via [OpenRouter](https://open
 
 ---
 
-## 🎥 Demo Preview
-
-![AI Dictionary Demo](https://github.com/xPushpraj/AI-Based-Dictionary/raw/main/assets/demo.gif)  
-
-> ⚠️ Replace this GIF with your own screen recording:  
-> - Record with **ScreenToGif** (Windows) or **Kap** (Mac/Linux)  
-> - Save as `demo.gif`  
-> - Place it in an `assets/` folder inside your repo  
-> - Update the path in README (`assets/demo.gif`)  
-
----
-
 ## ✨ Features
 - Enter **any word** to get a concise definition  
 - Provides **synonym** and **antonym** in separate lines  
@@ -39,3 +27,9 @@ Install dependencies before running the app:
 
 ```bash
 pip install -r requirements.txt
+
+
+🙌 Author
+
+👨‍💻 Made with ❤️ by Pushpraj Patel
+🔗 GitHub: @xPushpraj
